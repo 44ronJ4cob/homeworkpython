@@ -1,0 +1,10 @@
+def percentageCalc(num1,num2):
+    answer = (num1/num2) *100
+    print (answer)
+
+
+
+
+
+
+percentageCalc(724,895)
